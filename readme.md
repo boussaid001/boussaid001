@@ -71,7 +71,7 @@ Here are some of my notable repositories showcasing diverse skills:
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com) <!-- Replace with your email -->
+- 📧 Email: [mohamedamine.boussaid@polytechnicien.tn](mailto:mohamedamine.boussaid@polytechnicien.tn) <!-- Replace with your email -->
 - 💼 LinkedIn: [linkedin.com/in/mohamed-amine-boussaid](https://www.linkedin.com/in/mohamed-amine-boussaid) <!-- Add your LinkedIn -->
 - 🐦 Twitter: [@boussaid001](https://twitter.com/boussaid001) <!-- Add if available -->
 
@@ -80,7 +80,7 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 ---
 
 ⭐ **Star my repos and follow me for more updates!**  
-*Last updated: November 2025*  
+
 
 ---
 
