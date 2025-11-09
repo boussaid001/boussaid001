@@ -1,88 +1,85 @@
-# Mohamed Amine Boussaid
-### Full-Stack Developer & ML Enthusiast | Building Innovative Web, Mobile, and Data Solutions
+<div align="center">
+  
+# Hi there, I'm Mohamed Amine Boussaid! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Welcome+to+My+GitHub) <!-- Replace with a custom banner image URL -->
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=boussaid001)](https://github.com/boussaid001)
 
----
+A dedicated **Full-Stack Developer** and **Machine Learning Enthusiast** crafting cutting-edge solutions in web, mobile, and AI domains. Passionate about innovation and open-source collaboration.
 
-## 👋 About Me
-Hello! I'm Mohamed Amine Boussaid, a passionate developer with a focus on full-stack web development, mobile applications, and machine learning projects. I thrive on turning ideas into functional, scalable applications that solve real-world problems. Currently exploring JavaScript ecosystems, Java Enterprise solutions, and Python-based AI/ML workflows.
-
-- 🔭 **Currently working on:** Enhancing e-commerce platforms and gaming experiences.
-- 🌱 **Learning:** Advanced GraphQL integrations and reactive mobile frameworks.
-- 💬 **Ask me about:** Web development, CRUD operations in JEE, or ML model deployment.
-- ⚡ **Fun fact:** I once built a gaming app prototype in a weekend hackathon!
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
-| Category          | Technologies                          |
-|-------------------|---------------------------------------|
-| **Frontend**      | JavaScript, React, HTML/CSS           |
-| **Backend**       | Node.js, Java (JEE), GraphQL          |
-| **Mobile**        | React Native / Flutter (in progress)  |
-| **Data Science**  | Python, Scikit-learn, TensorFlow      |
-| **Databases**     | SQL, MongoDB                          |
-| **Tools**         | Git, Docker, VS Code                  |
+## 🌟 Who Am I?
+Dynamic developer specializing in scalable applications that blend creativity with technology. From interactive web experiences to intelligent ML models, I love solving challenges with code.
+
+- 🎯 **Mission:** Empower users through intuitive, performant tech.
+- 📍 **Based in:** [Your Location] <!-- Add your location -->
+- 🏆 **Proud of:** Leading a team to deploy a production ML pipeline.
+
+### Quick Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boussaid001&theme=radical&hide_border=true)
 
 ---
 
-## 🔥 Featured Projects
-Here are some of my notable repositories showcasing diverse skills:
+## 💼 Professional Toolkit
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-JEE-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-18-green?logo=react&logoColor=white)
 
-- **[webprojet](https://github.com/boussaid001/webprojet)**  
-  *A dynamic gaming application built with JavaScript.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/webprojet?style=social)  
-  _Technologies: JavaScript_
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24-blue?logo=docker&logoColor=white)
 
-- **[Online-store](https://github.com/boussaid001/Online-store)**  
-  *E-commerce platform for seamless online shopping experiences.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/Online-store?style=social)  
-  _Technologies: Full-Stack Web Development_
-
-- **[mobile](https://github.com/boussaid001/mobile)**  
-  *Cross-platform mobile application prototype.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/mobile?style=social)  
-  _Technologies: Mobile Development_
-
-- **[JEE-CRUD](https://github.com/boussaid001/JEE-CRUD)**  
-  *RESTful CRUD operations using Java Enterprise Edition.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/JEE-CRUD?style=social)  
-  _Technologies: Java, JEE_
-
-- **[graphql](https://github.com/boussaid001/graphql)**  
-  *GraphQL API implementation for efficient data querying.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/graphql?style=social)  
-  _Technologies: JavaScript, GraphQL_
-
-- **[projetML](https://github.com/boussaid001/projetML)**  
-  *Machine learning project exploring predictive models.*  
-  ![Stars](https://img.shields.io/github/stars/boussaid001/projetML?style=social)  
-  _Technologies: Python, ML Libraries_
+### Skills Snapshot
+- **Web Dev:** HTML/CSS/JS, Node.js, GraphQL
+- **Mobile:** React Native (Exploring Flutter)
+- **AI/ML:** TensorFlow, Scikit-learn
+- **DevOps:** Git, CI/CD Basics
 
 ---
 
-## 📊 GitHub Stats
-[![Mohamed Amine Boussaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=boussaid001&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussaid001&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Spotlight Projects
+Showcasing my journey through code – dive in!
 
-<!-- Note: These badges will auto-populate once your profile has more activity. Customize the theme as needed. -->
-
----
-
-## 📫 Let's Connect!
-- 📧 Email: [mohamedamine.boussaid@polytechnicien.tn](mailto:mohamedamine.boussaid@polytechnicien.tn) <!-- Replace with your email -->
-- 💼 LinkedIn: [linkedin.com/in/mohamed-amine-boussaid](https://www.linkedin.com/in/mohamed-amine-boussaid) <!-- Add your LinkedIn -->
-- 🐦 Twitter: [@boussaid001](https://twitter.com/boussaid001) <!-- Add if available -->
-
-Feel free to reach out for collaborations, open-source contributions, or just a chat about tech!
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| [webprojet](https://github.com/boussaid001/webprojet) | Interactive gaming app with real-time features. | JavaScript | ![Stars](https://img.shields.io/github/stars/boussaid001/webprojet?style=social) |
+| [Online-store](https://github.com/boussaid001/Online-store) | Full-featured e-commerce site with secure checkout. | Full-Stack JS | ![Stars](https://img.shields.io/github/stars/boussaid001/Online-store?style=social) |
+| [mobile](https://github.com/boussaid001/mobile) | Prototype for cross-platform shopping app. | React Native | ![Stars](https://img.shields.io/github/stars/boussaid001/mobile?style=social) |
+| [JEE-CRUD](https://github.com/boussaid001/JEE-CRUD) | Enterprise-grade REST API for data management. | Java JEE | ![Stars](https://img.shields.io/github/stars/boussaid001/JEE-CRUD?style=social) |
+| [graphql](https://github.com/boussaid001/graphql) | Optimized GraphQL server for flexible queries. | Node.js, GraphQL | ![Stars](https://img.shields.io/github/stars/boussaid001/graphql?style=social) |
+| [projetML](https://github.com/boussaid001/projetML) | Predictive analytics model for user behavior. | Python, TensorFlow | ![Stars](https://img.shields.io/github/stars/boussaid001/projetML?style=social) |
 
 ---
 
-⭐ **Star my repos and follow me for more updates!**  
-
+## 📈 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boussaid001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boussaid001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-*(Inspired by my journey in development)*
+## 🤝 Open to Collaborate
+Let's build something amazing together! Whether it's contributing to open-source, freelancing on a project, or discussing the latest in AI.
+
+- 📧 **Reach Me:** [mohamedamine.boussaid@polytechnicien.tn](mailto:mohamedamine.boussaid@polytechnicien.tn)
+- 🔗 **LinkedIn:** [Mohamed Amine Boussaid](https://www.linkedin.com/in/mohamed-amine-boussaid)
+- 🐦 **X (Twitter):** [@boussaid001](https://twitter.com/boussaid001)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=boussaid001&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+**Last Updated:** November 09, 2025
+
+---
+
+> *"The best way to predict the future is to invent it."* – Alan Kay  
+*(Fueling my drive in tech innovation)*
