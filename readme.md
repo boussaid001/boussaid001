@@ -14,7 +14,7 @@ A dedicated **Full-Stack Developer** and **Machine Learning Enthusiast** craftin
 Dynamic developer specializing in scalable applications that blend creativity with technology. From interactive web experiences to intelligent ML models, I love solving challenges with code.
 
 - 🎯 **Mission:** Empower users through intuitive, performant tech.
-- 📍 **Based in:** [Your Location] <!-- Add your location -->
+- 📍 **Based in:** Moonastir
 - 🏆 **Proud of:** Leading a team to deploy a production ML pipeline.
 
 ### Quick Stats
