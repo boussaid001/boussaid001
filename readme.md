@@ -6,6 +6,8 @@
 
 A dedicated **Full-Stack Developer** and **Machine Learning Enthusiast** crafting cutting-edge solutions in web, mobile, and AI domains. Passionate about innovation and open-source collaboration.
 
+![Profile Views](https://komarev.com/ghpvc/?username=boussaid001&label=Profile%20views&color=0e75b6&style=flat-square)
+
 </div>
 
 ---
@@ -14,7 +16,7 @@ A dedicated **Full-Stack Developer** and **Machine Learning Enthusiast** craftin
 Dynamic developer specializing in scalable applications that blend creativity with technology. From interactive web experiences to intelligent ML models, I love solving challenges with code.
 
 - 🎯 **Mission:** Empower users through intuitive, performant tech.
-- 📍 **Based in:** Moonastir
+- 📍 **Based in:** Monastir
 - 🏆 **Proud of:** Leading a team to deploy a production ML pipeline.
 
 ### Quick Stats
@@ -74,8 +76,6 @@ Let's build something amazing together! Whether it's contributing to open-source
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=boussaid001&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
----
 
 
 ---
