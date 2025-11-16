@@ -1,0 +1,197 @@
+# Advanced GitHub Profile Animations - BMA Brand
+# Generates multiple advanced animations: Snake, 3D Graph, Anime Coding GIFs
+
+name: 🎨 Generate Advanced Profile Animations
+
+on:
+  # Schedule to run automatically every 6 hours for fresh animations
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Manual trigger from Actions tab
+  workflow_dispatch:
+  
+  # Run on push to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-animations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Checkout repository with full history
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Create output directories
+      - name: 📁 Create output directories
+        run: |
+          mkdir -p dist
+          mkdir -p dist/assets/animations
+          mkdir -p profile-3d-contrib
+
+      # ============================================
+      # 1. SNAKE ANIMATION (Multiple Variants)
+      # ============================================
+      - name: 🐍 Generate Snake Animation (Primary)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Generate Snake Animation (Anime Style - Luffy Theme)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/snake-luffy.gif?color_snake=#ff6b35&color_dots=#ffa500,#ff8c00,#ff7700,#ff6600,#ff5500
+            dist/snake-luffy-dark.gif?color_snake=#ff8c42&color_dots=#ffa500,#ff8c00,#ff7700,#ff6600,#ff5500&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Generate Snake Animation (BMA Brand Colors)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/snake-bma.gif?color_snake=#6366F1&color_dots=#818cf8,#a5b4fc,#c7d2fe,#e0e7ff,#f3f4f6
+            dist/snake-bma-dark.gif?color_snake=#4f46e5&color_dots=#6366f1,#818cf8,#a5b4fc,#c7d2fe,#e0e7ff&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ============================================
+      # 2. 3D CONTRIBUTION GRAPH
+      # ============================================
+      - name: 🎯 Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Boussaid001
+
+      # ============================================
+      # 3. ANIME CODING ANIMATIONS
+      # ============================================
+      - name: ⚡ Generate Anime Coder Animation (Luffy Style)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/assets/animations/luffy-coder.gif?color_snake=#FF6B35&color_dots=#FFA500,#FF8C00,#FF7700,#FF6600,#FF5500
+            dist/assets/animations/luffy-coder-dark.gif?color_snake=#FF8C42&color_dots=#FFA500,#FF8C00,#FF7700,#FF6600,#FF5500&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚡ Generate Anime Coder Animation (Naruto Style)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/assets/animations/naruto-coder.gif?color_snake=#FFA500&color_dots=#FFD700,#FFA500,#FF8C00,#FF7700,#FF6600
+            dist/assets/animations/naruto-coder-dark.gif?color_snake=#FFB84D&color_dots=#FFD700,#FFA500,#FF8C00,#FF7700,#FF6600&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚡ Generate Anime Coder Animation (Goku Style)
+        uses: Platane/snk@master
+        with:
+          github_user_name: Boussaid001
+          outputs: |
+            dist/assets/animations/goku-coder.gif?color_snake=#FFD700&color_dots=#FFEB3B,#FFC107,#FF9800,#FF6F00,#FF3D00
+            dist/assets/animations/goku-coder-dark.gif?color_snake=#FFE082&color_dots=#FFEB3B,#FFC107,#FF9800,#FF6F00,#FF3D00&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ============================================
+      # 4. COPY BMA BRAND IMAGE
+      # ============================================
+      - name: 🎨 Copy BMA Brand Image
+        run: |
+          if [ -f "BMA.png" ]; then
+            cp BMA.png dist/bma-brand.png
+            cp BMA.png dist/assets/animations/bma-logo.png
+            echo "✅ BMA brand image copied successfully"
+          else
+            echo "⚠️  BMA.png not found, skipping brand image copy"
+          fi
+
+      # ============================================
+      # 5. CREATE CUSTOM ANIMATION README
+      # ============================================
+      - name: 📝 Generate Animation Showcase
+        run: |
+          cat > dist/animations-readme.md << 'EOF'
+          # 🎨 BMA Profile Animations
+          
+          ## 🐍 Snake Animations
+          - Primary snake animation with custom colors
+          - Luffy-themed anime style
+          - BMA brand-colored snake
+          
+          ## 🎯 3D Contribution Graph
+          - Interactive 3D visualization
+          - Auto-updating daily
+          
+          ## ⚡ Anime Coder Animations
+          - Luffy Coder style
+          - Naruto Coder style
+          - Goku Coder style
+          
+          Generated by: **Boussaid Mohamed Amine** (BMA)
+          Last updated: $(date)
+          EOF
+
+      # ============================================
+      # 6. SHOW GENERATED FILES
+      # ============================================
+      - name: 📊 Show generated files
+        run: |
+          echo "📁 Generated files:"
+          find dist -type f 2>/dev/null | head -20 || true
+          find profile-3d-contrib -type f 2>/dev/null | head -10 || true
+          find assets -type f 2>/dev/null | head -10 || true
+          echo ""
+          echo "✅ Animation generation complete!"
+
+      # ============================================
+      # 7. MOVE 3D GRAPH TO DIST
+      # ============================================
+      - name: 📦 Organize 3D graph files
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            cp -r profile-3d-contrib dist/ || true
+            echo "✅ 3D graph files organized"
+          fi
+
+      # ============================================
+      # 8. COMMIT AND PUSH TO OUTPUT BRANCH
+      # ============================================
+      - name: 🚀 Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          allow_empty_commit: true
+          commit_message: |
+            🎨 Update advanced profile animations
+            - Snake animations (primary, Luffy, BMA themed)
+            - 3D contribution graph
+            - Anime coding GIFs (Luffy, Naruto, Goku)
+            - BMA brand integration
+            [skip ci]
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

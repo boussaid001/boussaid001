@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- BMA Brand Logo -->
+<img src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/main/BMA.png" alt="BMA Brand" width="120" height="120" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);">
+
+<br/>
+
 <!-- Animated Typing Header -->
 <a href="https://boussaidmohamedamine.online">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Mohamed+Amine+Boussaid;Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable+Solutions+with+AI" alt="Typing SVG" />
@@ -266,13 +271,92 @@ const mohamedAmine = {
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🎨 Advanced Profile Animations
 
+### 🎯 3D Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" style="max-width: 100%; height: auto; margin-top: 10px;" />
+</div>
+
+---
+
+### 🐍 Snake Animations Collection
+
+<div align="center">
+
+#### Primary Snake Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake.svg">
+  <img alt="Primary snake animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
 </picture>
+
+#### 🍖 Luffy-Themed Snake (One Piece Style)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-luffy-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-luffy.gif">
+  <img alt="Luffy-themed snake animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-luffy.gif" style="max-width: 100%;" />
+</picture>
+
+#### 🎨 BMA Brand Snake (Custom Brand Colors)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-bma-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-bma.gif">
+  <img alt="BMA brand snake animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/snake-bma.gif" style="max-width: 100%;" />
+</picture>
+
+</div>
+
+---
+
+### ⚡ Anime Coder Animations
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🍖 Luffy Coder
+**One Piece Inspired**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/luffy-coder-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/luffy-coder.gif">
+  <img alt="Luffy Coder Animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/luffy-coder.gif" width="100%" style="border-radius: 8px;" />
+</picture>
+
+</td>
+<td align="center" width="33%">
+
+#### 🍜 Naruto Coder
+**Naruto Inspired**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/naruto-coder-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/naruto-coder.gif">
+  <img alt="Naruto Coder Animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/naruto-coder.gif" width="100%" style="border-radius: 8px;" />
+</picture>
+
+</td>
+<td align="center" width="33%">
+
+#### ⚡ Goku Coder
+**Dragon Ball Inspired**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/goku-coder-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/goku-coder.gif">
+  <img alt="Goku Coder Animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/assets/animations/goku-coder.gif" width="100%" style="border-radius: 8px;" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <i>🎨 All animations auto-update every 6 hours • Powered by GitHub Actions • BMA Brand 🎨</i>
+</div>
+
+</div>
 
 ---
 
