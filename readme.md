@@ -8,7 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C121212%2C00e5ff&height=6&section=header" alt="divider" />
 
   
-  
   <a href="https://github.com/boussaid001">
     <img src="https://avatars.githubusercontent.com/u/69619031?v=4" width="120" style="border-radius:100%; box-shadow: 0 0 0 4px #00e5ff55;" alt="Avatar" />
   </a>
@@ -21,12 +20,8 @@
   <a href="https://github.com/boussaid001?tab=followers">
     <img src="https://img.shields.io/github/followers/boussaid001?logo=github&style=for-the-badge&color=ff4d6d" alt="followers" />
   </a>
-  <a href="https://visitorbadge.io/status?path=boussaid001">
-    <img src="https://api.visitorbadge.io/api/visitors?path=boussaid001&label=Unique+Visitors&labelColor=%2300e5ff&countColor=%23ff4d6d" alt="unique visitors" />
-  </a>
 
 </div>
-
 
 <h2 align="center">
   <picture>
@@ -38,12 +33,11 @@
 ---
 
 ## 🌈 About Me
-A dynamic Full‑Stack Developer and ML Enthusiast from Monastir, crafting high‑impact web/mobile experiences and deploying intelligent systems to production.
+Full‑Stack Developer and ML Enthusiast from Monastir, focused on performant UX and production‑ready AI.
 
-- 🎯 Mission: Empower users with intuitive, performant tech.
+- 🎯 Mission: Empower users with intuitive, fast tech
 - 📍 Location: Monastir, TN
-- 🏆 Highlight: Led a team to ship a production ML pipeline end‑to‑end.
-
+- 🏆 Highlight: Shipped an end‑to‑end ML pipeline to production
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00e5ff%2C100%3Aff4d6d&height=100&section=footer" alt="wavy divider"/>
@@ -51,25 +45,17 @@ A dynamic Full‑Stack Developer and ML Enthusiast from Monastir, crafting high�
 
 ## 🧰 Tech Stack
 <div align="center">
-  
-  
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-000?logo=javascript&logoColor=F7DF1E&labelColor=111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.x-000?logo=python&logoColor=3776AB&labelColor=111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-JEE-000?logo=oracle&logoColor=F80000&labelColor=111&style=for-the-badge" />
-  
-  
+
   <img src="https://img.shields.io/badge/React-18-000?logo=react&logoColor=61DAFB&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-CSS3-000?logo=html5&logoColor=E34F26&labelColor=111&style=for-the-badge" />
-  
-  
   <img src="https://img.shields.io/badge/Node.js-API-000?logo=nodedotjs&logoColor=5FA04E&labelColor=111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GraphQL-Schema-000?logo=graphql&logoColor=E10098&labelColor=111&style=for-the-badge" />
-  
-  
+
   <img src="https://img.shields.io/badge/MongoDB-6.0-000?logo=mongodb&logoColor=47A248&labelColor=111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-SQL-000?logo=postgresql&logoColor=4169E1&labelColor=111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-24-000?logo=docker&logoColor=2496ED&labelColor=111&style=for-the-badge" />
-  
 </div>
 
 ## ⚡ Quick Glance
@@ -77,14 +63,11 @@ A dynamic Full‑Stack Developer and ML Enthusiast from Monastir, crafting high�
   <img src="https://github-readme-streak-stats.herokuapp.com?user=boussaid001&theme=radical&hide_border=true" alt="streak" />
 </div>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A00e5ff%2C100%3Aff4d6d&height=3" alt="gradient bar"/>
 </p>
 
 ## 🚀 Spotlight Projects
-Showcasing a few things I’ve shipped and loved building.
-
 | Project | Description | Tech | Stars |
 |---|---|---|---|
 | [webprojet](https://github.com/boussaid001/webprojet) | Interactive gaming app with real‑time features. | JavaScript | ![Stars](https://img.shields.io/github/stars/boussaid001/webprojet?style=social) |
@@ -100,11 +83,6 @@ Showcasing a few things I’ve shipped and loved building.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boussaid001&layout=compact&theme=radical&hide_border=true" alt="langs" height="165" />
 </div>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR7f9G8a9M4/giphy.gif" width="280" alt="animated accent"/>
-</p>
-
 ## 🧭 Now
 - 🔭 Building: performant web apps with rich interactions  
 - 📚 Learning: advanced ML ops & model monitoring  
@@ -115,21 +93,7 @@ Open to open‑source, freelance, or ML‑powered product collabs.
 
 - 📧 Email: mohamedamine.boussaid [at] polytechnicien.tn
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-amine-boussaid
-- 🐦 X: https://twitter.com/boussaid001
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A111111%2C100%3A000000&height=120&section=footer" alt="footer wave"/>
 </p>
-````
-
-Notes and customization tips:
-- Replace the GIF under “Motion accent” with a GIF that matches your style (use Giphy or your own CDN; Giphy is generally stable).
-- The typing SVGs and capsule-render bars are lightweight and reliable; they won’t bloat your README.
-- If you want a custom animated banner (PNG/GIF) hosted on GitHub:
-  1) Add the file to your profile repo (boussaid001/boussaid001) under assets/
-  2) Use the raw GitHub URL: https://raw.githubusercontent.com/boussaid001/boussaid001/main/assets/your-banner.gif
-- If any stat card rate-limits, it gracefully fails; you can keep both streak and stats or remove one.
-- Color palette used: neon cyan (#00E5FF) + hot pink (#FF4D6D) on dark for contrast.
-
-Want me to generate a minimalist animated banner or avatar glow GIF tailored to your name/colors? I can create a few options—tell me preferred text, background (dark/light), and size (e.g., 1200x400).
