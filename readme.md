@@ -1,99 +1,407 @@
-
 <div align="center">
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Mohamed+Amine+Boussaid+%F0%9F%91%8B;Full‑Stack+Developer+%2B+Machine+Learning+Enthusiast;I+build+fast%2C+scalable+and+intelligent+products" alt="Typing Intro" />
+<!-- Animated Typing Header -->
+<a href="https://boussaidmohamedamine.online">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Mohamed+Amine+Boussaid;Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable+Solutions+with+AI" alt="Typing SVG" />
+</a>
 
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%2C121212%2C00e5ff&height=6&section=header" alt="divider" />
+<br/>
 
-  
-  <a href="https://github.com/boussaid001">
-    <img src="https://avatars.githubusercontent.com/u/69619031?v=4" width="120" style="border-radius:100%; box-shadow: 0 0 0 4px #00e5ff55;" alt="Avatar" />
-  </a>
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 
-  
-  <br />
-  <a href="https://github.com/boussaid001">
-    <img src="https://komarev.com/ghpvc/?username=boussaid001&style=for-the-badge&color=00e5ff&label=Profile+Views" alt="views" />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Boussaid001&label=Profile%20views&color=6366f1&style=flat" alt="Profile Views" />
+
+<!-- Social Links with Icons -->
+<p align="center">
+  <a href="https://boussaidmohamedamine.online" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/boussaid001?tab=followers">
-    <img src="https://img.shields.io/github/followers/boussaid001?logo=github&style=for-the-badge&color=ff4d6d" alt="followers" />
+  <a href="https://linkedin.com/in/Boussaid001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:mohamedamine.boussaid@polytechnicien.tn">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Boussaid001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
-
-<h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=FFD166&center=true&vCenter=true&width=700&lines=Building+products+that+feel+fast%2C+smart%2C+and+delightful%E2%9C%A8" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2B2D42&center=true&vCenter=true&width=700&lines=Building+products+that+feel+fast%2C+smart%2C+and+delightful%E2%9C%A8" alt="headline" />
-  </picture>
-</h2>
 
 ---
 
-## 🌈 About Me
-Full‑Stack Developer and ML Enthusiast from Monastir, focused on performant UX and production‑ready AI.
+## 👨‍💻 About Me
 
-- 🎯 Mission: Empower users with intuitive, fast tech
-- 📍 Location: Monastir, TN
-- 🏆 Highlight: Shipped an end‑to‑end ML pipeline to production
+```typescript
+const mohamedAmine = {
+    location: "Sousse, Tunisia 🇹🇳",
+    education: "Software Engineering @ Polytechnic Sousse",
+    currentFocus: ["Full-Stack Development", "Cloud Architecture", "AI Integration"],
+    lookingFor: "Internship Opportunities",
+    
+    lifePhilosophy: "Building scalable solutions that combine technical excellence with exceptional UX",
+    
+    techStack: {
+        languages: ["JavaScript/TypeScript", "Python", "Golang", "Java", "Dart", "C++", "Scala"],
+        frontend: ["React", "Angular", "Flutter", "PWA", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Golang/Gin", "Django", "Spring Boot"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Firebase"],
+        cloudDevOps: ["Docker", "Kubernetes", "Nginx", "PM2", "CI/CD"],
+        aiData: ["OpenAI GPT", "NLP", "Apache Spark", "Hadoop", "TensorFlow"]
+    },
+    
+    architecture: ["Microservices", "Event-Driven (Kafka)", "REST/GraphQL APIs", "gRPC"],
+    
+    certifications: ["Cisco DevNet Associate", "CCNA", "SFPC™ Scrum", "MongoDB"]
+};
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00e5ff%2C100%3Aff4d6d&height=100&section=footer" alt="wavy divider"/>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 SmartMoney Platform
+**Canadian Immigration & Investment Solution**
+
+[![Live](https://img.shields.io/badge/🌐_Live-6366F1?style=flat-square)](https://smartmoney.com)
+![Tech Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Features:**
+- 🏘️ Real estate management
+- 📈 Financial markets integration
+- 🤖 AI-powered financial assistant
+- 🔐 OAuth2.0 authentication
+- ⚡ PWA with offline support
+
+**Tech:** React • Node.js • Express.js • MongoDB • PostgreSQL • OpenAI API • PWA
+
+</td>
+<td width="50%">
+
+### 💰 EarnBits Platform
+**Digital Advertising & Rewards Platform**
+
+[![Demo](https://img.shields.io/badge/🎬_Demo-10B981?style=flat-square)](https://earnbits.demo)
+![Tech Stack](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+**Features:**
+- 📊 Campaign management
+- ⏱️ Real-time bidding
+- 💳 Stripe payment processing
+- 🐳 Containerized microservices
+- 🔄 CI/CD pipeline
+
+**Tech:** Angular • TypeScript • Golang • PostgreSQL • Docker • Stripe API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Vahila Backend
+**E-commerce Microservices Platform**
+
+![Tech Stack](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Architecture:**
+- ⚡ Event-driven with Kafka
+- 🔌 gRPC microservices
+- 📡 GraphQL & REST APIs
+- 🗄️ MongoDB & Redis caching
+- 🔑 JWT authentication
+
+**Tech:** Node.js • Docker • Kafka • gRPC • GraphQL • MongoDB • Redis
+
+</td>
+<td width="50%">
+
+### 🤖 YouTube Auto Responder
+**AI-Powered Comment Response System**
+
+![Tech Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Features:**
+- 🧠 GPT-4 integration
+- 💬 Sentiment analysis
+- 📺 YouTube API integration
+- ⚡ Real-time monitoring
+- 🎯 Contextual responses
+
+**Tech:** Python • OpenAI GPT-4 • YouTube API • Flask • SQLite • NLP
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🚀 AltaDigit - Summer Intern</b> <i>(July 2025 - September 2025)</i></summary>
+<br/>
+
+- 🏗️ Developed **SmartMoney** platform for Canadian immigration & investment
+- 🔐 Implemented secure authentication with OAuth2.0 and Google OAuth
+- 🤖 Integrated AI-powered financial assistant using OpenAI API
+- 🏠 Built real estate management and financial markets features
+- ☁️ Deployed on VPS with Nginx, SSL/TLS, and PM2 for production-grade performance
+
+</details>
+
+<details>
+<summary><b>🛡️ TUDIGISEC - Summer Intern</b> <i>(July 2024 - September 2024)</i></summary>
+<br/>
+
+- 🏢 Developed security platform with **multi-tenancy architecture**
+- 📝 Contributed to specifications and conceptual design
+- 🔒 Implemented security best practices and access control
+
+</details>
+
+<details>
+<summary><b>☁️ Tunisian Cloud - Bachelor's Degree Intern</b> <i>(Feb 2023 - June 2023)</i></summary>
+<br/>
+
+- 📊 Built **agile and predictive project management platform**
+- 📐 Created comprehensive technical specifications
+- 🏗️ Designed scalable architectural documentation
+
+</details>
+
+<details>
+<summary><b>🎙️ TITC - Co-founder</b> <i>(Dec 2021 - Jan 2025)</i></summary>
+<br/>
+
+- 🎤 Led online event podcasts across Tunisia
+- 👥 Built IT community initiatives
+- 🎨 Managed graphic design and IT infrastructure
+
+</details>
+
+---
+
+## 🛠️ Technology Arsenal
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,dart,cpp,scala" alt="Languages" />
 </p>
 
-## 🧰 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-000?logo=javascript&logoColor=F7DF1E&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.x-000?logo=python&logoColor=3776AB&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-JEE-000?logo=oracle&logoColor=F80000&labelColor=111&style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/React-18-000?logo=react&logoColor=61DAFB&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-API-000?logo=nodedotjs&logoColor=5FA04E&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphQL-Schema-000?logo=graphql&logoColor=E10098&labelColor=111&style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/MongoDB-6.0-000?logo=mongodb&logoColor=47A248&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-SQL-000?logo=postgresql&logoColor=4169E1&labelColor=111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-24-000?logo=docker&logoColor=2496ED&labelColor=111&style=for-the-badge" />
-</div>
-
-## ⚡ Quick Glance
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boussaid001&theme=radical&hide_border=true" alt="streak" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A00e5ff%2C100%3Aff4d6d&height=3" alt="gradient bar"/>
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,tailwind,materialui,bootstrap,html,css" alt="Frontend" />
 </p>
 
-## 🚀 Spotlight Projects
-| Project | Description | Tech | Stars |
-|---|---|---|---|
-| [webprojet](https://github.com/boussaid001/webprojet) | Interactive gaming app with real‑time features. | JavaScript | ![Stars](https://img.shields.io/github/stars/boussaid001/webprojet?style=social) |
-| [Online-store](https://github.com/boussaid001/Online-store) | Full e‑commerce with secure checkout. | Full‑Stack JS | ![Stars](https://img.shields.io/github/stars/boussaid001/Online-store?style=social) |
-| [mobile](https://github.com/boussaid001/mobile) | Cross‑platform shopping prototype. | React Native | ![Stars](https://img.shields.io/github/stars/boussaid001/mobile?style=social) |
-| [JEE-CRUD](https://github.com/boussaid001/JEE-CRUD) | Enterprise REST API. | Java JEE | ![Stars](https://img.shields.io/github/stars/boussaid001/JEE-CRUD?style=social) |
-| [graphql](https://github.com/boussaid001/graphql) | Optimized GraphQL server. | Node.js, GraphQL | ![Stars](https://img.shields.io/github/stars/boussaid001/graphql?style=social) |
-| [projetML](https://github.com/boussaid001/projetML) | Predictive analytics for behavior. | Python, TensorFlow | ![Stars](https://img.shields.io/github/stars/boussaid001/projetML?style=social) |
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,django,spring,flask,laravel" alt="Backend" />
+</p>
 
-## 📊 GitHub Insights
+### Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite" alt="Databases" />
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,gitlab" alt="DevOps" />
+</p>
+
+### AI & Data Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
+
+### Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,maven,webpack" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boussaid001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boussaid001&layout=compact&theme=radical&hide_border=true" alt="langs" height="165" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boussaid001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussaid001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-## 🧭 Now
-- 🔭 Building: performant web apps with rich interactions  
-- 📚 Learning: advanced ML ops & model monitoring  
-- 🌱 Exploring: React Native performance patterns  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boussaid001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-## 🤝 Let’s Collaborate
-Open to open‑source, freelance, or ML‑powered product collabs.
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Boussaid001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-- 📧 Email: mohamedamine.boussaid [at] polytechnicien.tn
-- 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-amine-boussaid
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussaid001&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A111111%2C100%3A000000&height=120&section=footer" alt="footer wave"/>
+---
+
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Boussaid001/Boussaid001/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🎓 Certifications & Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+- **Polytechnic Sousse** (2023-2026)
+  - Software Engineering
+- **ISIMM Monastir** (2020-2023)
+  - Bachelor's in Computer Science
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+- 🌐 **Cisco DevNet Associate** (2025-2027)
+- 🔧 **CCNA 1 & 2** (2024-2026)
+- 📋 **SFPC™ Scrum** (2024-2026)
+- 🗃️ **MongoDB Certification** (2024-2026)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Community & Leadership
+
+<div align="center">
+
+| Organization | Role | Period |
+|-------------|------|--------|
+| 🔬 **IEEE** | Member | 2024 - Present |
+| 💻 **ACM EPS Club** | Member | 2024 - 2025 |
+| 🎨 **CPU ISIMM** | Graphic Designer | 2021 - 2023 |
+| 🌟 **Young Creative Minds** | Vice President | 2019 - 2021 |
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+| Language | Level |
+|----------|-------|
+| 🇹🇳 **Arabic** | Native |
+| 🇫🇷 **French** | DELF B2 |
+| 🇬🇧 **English** | B2 |
+
+</div>
+
+---
+
+## 💡 Core Competencies
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Mohamed Amine))
+    Technical Skills
+      Full Stack Development
+      Cloud Architecture
+      AI Integration
+      Microservices
+    Architecture
+      Event Driven
+      REST GraphQL
+      gRPC
+      Kafka
+    Soft Skills
+      Problem Solving
+      Leadership
+      Communication
+      Critical Thinking
+    Domains
+      E commerce
+      FinTech
+      Security
+      Big Data
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Open+to+Internship+Opportunities!;Let's+Build+Something+Amazing+Together!;Always+Learning%2C+Always+Growing!" alt="Footer Typing SVG" />
+
+<br/><br/>
+
+<p>
+  <a href="https://boussaidmohamedamine.online" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
+<p>
+  <a href="mailto:mohamedamine.boussaid@polytechnicien.tn">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/Boussaid001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Boussaid001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<sub>⭐️ From [Boussaid001](https://github.com/Boussaid001) with 💙</sub>
+
+</div>
+
+---
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@Boussaid001?theme=moebooru" alt="Visitor Count" />
+</div>
