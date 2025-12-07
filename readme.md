@@ -43,7 +43,6 @@
 ```typescript
 const mohamedAmine = {
     location: "Sousse, Tunisia 🇹🇳",
-    education: "Software Engineering @ Polytechnic Sousse",
     lookingFor: "Internship Opportunities",
     
     lifePhilosophy: "Building scalable solutions that combine technical excellence with exceptional UX",
